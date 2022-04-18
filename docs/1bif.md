@@ -63,13 +63,13 @@ Pots visualitzar la proteïna en aquesta finestra proveïda per [Mol*](https://m
 
 L'estructura presenta tant hèlix alfa com fulles beta
 
-|![](../figures/1bif_2nd.png)|
+|![](./figures/1bif_2nd.png)|
 |:--:|
 |Imatge de la proteïna mostrant els elements d'estructura secundària.|
 
 La següent figura mostra la seqüència de la proteïna i les regions amb hèlix alfa (groc) i fulles beta (verd)
 
-|![](../figures/1bif_seq.png)|
+|![](/figures/1bif_seq.png)|
 |:--:|
 |Seqüència de la proteïna mostrant els elements d'estructura secundària|
 
@@ -114,7 +114,7 @@ Notar la presència d'alfa hèlix (etiquetades amb un "1") i també d'hèlix 3-1
 
 La figura mostra l'estructura amb un codi de colors progressiu que permet identificar la regió N-terminal (blau) i la regió C-terminal (vermell).
 
-|![](../figures/1bif_rainbow.png)|
+|![](/figures/1bif_rainbow.png)|
 |:--:|
 |Imatge de la proteïna amb la representació amb colors de fred (blau) a calent (vermell) en funció de la seqüència.|
 
@@ -124,9 +124,9 @@ El monomer de la proteïna està clarament dividit en dos dominis funcionals, qu
 
 | motiu | regio | imatge |
 |:-------:|:-------:|:--------:|
-|   $\beta$-hairpin    | per ex.  ```HTVLKLTPVAYGCKVESIF```    |   ![](../figures/1bif_hairpin.png)     |
-|    P-loop / Walker motif  |    ```GLPARGKT```   |    ![](../figures/1bif_ploop.png)       |
-|     $\beta-\alpha$    |   per ex.  ```TLIVMVGLPARGKTYISKKLTRYLNFIG``` |    ![](../figures/1bif_betaalfa.png)       |
+|   $\beta$-hairpin    | per ex.  ```HTVLKLTPVAYGCKVESIF```    |   ![](/figures/1bif_hairpin.png)     |
+|    P-loop / Walker motif  |    ```GLPARGKT```   |    ![](/figures/1bif_ploop.png)       |
+|     $\beta-\alpha$    |   per ex.  ```TLIVMVGLPARGKTYISKKLTRYLNFIG``` |    ![](/figures/1bif_betaalfa.png)       |
 
 ## Plegament
 
@@ -135,7 +135,7 @@ Es tracta d'una proteïna $\alpha/\beta$, amb dos dominis i plegaments clarament
  1. plegament de tipus *P-loop kinase* [segons la clasificació a SCOP](https://scop.mrc-lmb.cam.ac.uk/term/8019198) en el domini N-terminal;
  1. plegament de tipus *Phosphoglycerate mutase* [segons la clasificació a SCOP](https://scop.mrc-lmb.cam.ac.uk/term/8019202) en el domini C-terminal.
 
-|![](../figures/1BIF_SCOP1.png)![](../figures/1BIF_SCOP1.png)|
+|![](/figures/1BIF_SCOP1.png)![](/figures/1BIF_SCOP1.png)|
 |:--:|
 |Estructura jeràrquica dels dos dominis presents a PDB:1BIF|
 
@@ -145,7 +145,7 @@ Aquests dominis s'identifiquen com a par de les superfamílies *P-loop containin
 
 Podem començar per [cercar a PFAM el codi uniprot de la proteïna](http://pfam.xfam.org/protein/P01112). Veiem que es tracta d'una proteïna amb dos dominis ben caracteritzats:
 
-|![](../figures/1bif_pfam1.png)|
+|![](/figures/1bif_pfam1.png)|
 |:--:|
 |Taula resum dels dominis PFAM per al PDB:1BIF, UNIPROT: P25114|
 
@@ -158,13 +158,13 @@ L'estudi dels logos HMM dels dos dominis, mostra informació sobre els seus cent
 
 1. (http://pfam.xfam.org/family/PF01591#tabview=tab4) ens mostra una regió molt enriquida en glicines corresponent al P-loop, i també la gran conservació de la Treonina 52 del fitxer PDB (posició 27 en el logo HMM), que és essencial per a la coordinació de l'ió magnesi, que participa en la reacció d'hidròlisi de l'ATP, com es pot apreciar en el centre actiu de la proteïna:
 
-|![](../figures/1bif_ploop.png)|
+|![](/figures/1bif_ploop.png)|
 |:--:|
 |regió d'enllaç als fosfats de l'ATP  en el domini N-terminal de la proteïna PDB:1BIF.|
 
 2. (http://pfam.xfam.org/family/PF00300#tabview=tab4) ens mostra una gran conservació de residus polars i carregats, en especial dues histidines (veure la figura 5 de l'[article](https://www.cell.com/structure/fulltext/S0969-2126(96)00109-8) on es publicava l'estructura 1BIF)
 
-|![](../figures/1bif_centreactiu2.png)|
+|![](/figures/1bif_centreactiu2.png)|
 |:--:|
 |centre actiu on es produeix la hidròlisi de la fructosa-2,6-bifosfatasa en el domini C-terminal de la proteïna PDB:1BIF.|
 
