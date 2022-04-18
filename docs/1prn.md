@@ -107,3 +107,8 @@ Podem començar per [cercar a PFAM el codi uniprot de la proteïna](http://pfam.
 Podem aleshores explorar l'entrada per a aquest domini específic: PFAM: P39767, i hi trobem informació sobre els porus Porin en bacteris. El domini concret Ras està altament distribuït, trobat en  [18 arquitectures diferents](http://pfam.xfam.org/family/P39767#tabview=tab1), vora [1600 espècies](http://pfam.xfam.org/family/P39767#tabview=tab7), totes corresponents a bacteris.
 
 L'estudi del [logo HMM](http://pfam.xfam.org/family/P39767#tabview=tab4) ens mostra un domini amb una gran concentració de residus hidrofòbics alternant amb residus polar o carregats. Sobre l'estructura es pot observar com els residus polars d'organitzen a l'interior de la propteïna i a les "tapes" del barril, mentre que els hidrofòbics es col·loquen en les regions d'interacció amb la membrana, com correspon a una proteïna quina funció és el transport de substàncies polars.
+
+
+|![](/figures/1prn_hydroph.png)|
+|:--:|
+|Visualització de les regions hidrofòbiques (vermell) i hidrofíliques (blau) de la proteïna PDB:1PRN.|
