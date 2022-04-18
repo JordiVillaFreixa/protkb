@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
-permalink: pretty
+baseurl: /protkb
+title: Proteines
+description: repositori web d'informació diversa sobre relacions estructura-funció en proteïnes
